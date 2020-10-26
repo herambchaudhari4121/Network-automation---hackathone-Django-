@@ -1,6 +1,6 @@
 # Automating Software installation using Ansible
 
-This project is aimed for installing different softwares using a single computer into multiple computers in a lab using playbooks made in Ansible.
+This project is aimed for installing the different softwares by using only a single computer into multiple computers in a lab using playbooks are made in Ansible.
 
 ![Login Page](https://github.com/khusharth/hackathone/tree/master/screenshots/login.png)
 
